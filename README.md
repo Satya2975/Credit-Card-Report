@@ -2,7 +2,8 @@
 Power BI Project – Credit Card Transactions Analysis Dashboard
 
 Project Overview:
-Developed an interactive Credit Card Transactions Analysis Dashboard using Power BI to monitor transaction patterns, customer behavior, and spending trends. This project provided actionable insights to enhance financial decision-making and detect potential risks.
+Developed an interactive Credit Card Transactions Analysis Dashboard using Power BI to monitor transaction patterns, customer behavior, and spending trends.
+This project provided actionable insights to enhance financial decision-making and detect potential risks.
 
 Key Insights & Visualizations:
 💳 Transaction Analysis: Visualized monthly transaction volumes and total spending using line and bar charts.
