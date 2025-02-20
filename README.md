@@ -6,12 +6,12 @@ Developed an interactive Credit Card Transactions Analysis Dashboard using Power
 This project provided actionable insights to enhance financial decision-making and detect potential risks.
 
 Key Insights & Visualizations:
-💳 Transaction Analysis: Visualized monthly transaction volumes and total spending using line and bar charts.
-🧾 Category-wise Spending: Analyzed spending patterns across categories such as groceries, travel, dining, and shopping.
-🌍 Regional Insights: Displayed transaction distribution by city and state using map visualizations.
-📊 Customer Behavior Analysis: Segmented customers based on spending habits, frequency, and preferred payment methods.
-⚠️ Fraud Detection Indicators: Highlighted unusual transaction patterns and flagged high-risk transactions.
-💹 Credit Limit Usage: Monitored credit utilization trends with KPIs to identify customers exceeding limits.
+ 1. Transaction Analysis: Visualized monthly transaction volumes and total spending using line and bar charts.
+ 2. Category-wise Spending: Analyzed spending patterns across categories such as groceries, travel, dining, and shopping.
+ 3. Regional Insights: Displayed transaction distribution by city and state using map visualizations.
+ 4. Customer Behavior Analysis: Segmented customers based on spending habits, frequency, and preferred payment methods.
+ 5. Fraud Detection Indicators: Highlighted unusual transaction patterns and flagged high-risk transactions.
+ 6. Credit Limit Usage: Monitored credit utilization trends with KPIs to identify customers exceeding limits.
 
 Tools & Technologies Used:
 Power BI: Interactive dashboards, DAX measures, and data modeling.
